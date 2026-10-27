@@ -2,7 +2,7 @@ public class WeatherForecastService
 {
     private static readonly (int TemperatureC, string Summary)[] SampleConditions =
     [
-        (18, "Cloudy"),
+        (18, "Clear"),
         (20, "Partly cloudy"),
         (16, "Rain"),
         (22, "Sunny"),
